@@ -1,0 +1,35 @@
+_repo: Lost-Gip_74763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: https://en.wikipedia.org/wiki/Hesba_Stretton
+description: ''
+gutenberg_issued: '2024-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74763'
+language: en
+pgterms:marc905: 20241024091210stretton
+pgterms:marc906: '1873'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bHenry S. King and Co., $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'London (England) -- History -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Lost Gip
+url: http://www.gutenberg.org/ebooks/74763
